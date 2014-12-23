@@ -2,7 +2,7 @@
 
 title:"Jekyll testing"
 description:"Jekyll testing page"
-logo: # 120x120 px default image used for Twitter summary card
+logo: /images/skinny-bones-demo.gif
 teaser: # 400x250 px default teaser image used in image archive grid
 locale:
 url: //sercanerhan.github.io/
