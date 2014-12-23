@@ -2,7 +2,7 @@
 
 title:"Jekyll testing"
 description:"Jekyll testing page"
-logo: /images/skinny-bones-demo.gif
+logo: # /images/skinny-bones-demo.gif
 teaser: # 400x250 px default teaser image used in image archive grid
 locale:
 url: //sercanerhan.github.io/
