@@ -2,17 +2,8 @@ name: Sercan ERHAN
 description: 
 meta_description: "Sercan ERHAN"
 
-<<<<<<< HEAD
 markdown: redcarpet
 pygments: true
-=======
-title:"Jekyll testing"
-description:"Jekyll testing page"
-logo: # /images/skinny-bones-demo.gif
-teaser: # 400x250 px default teaser image used in image archive grid
-locale:
-url: //sercanerhan.github.io/
->>>>>>> origin/master
 
 baseurl: 
 
@@ -21,22 +12,6 @@ paginate: 15
 permalink: /:title
 
 
-<<<<<<< HEAD
 # Details for the RSS feed generator
 url:            'sercanerhan.github.io'
 author:         'Sercan ERHAN'
-=======
-# Site owner
-owner:
-  name:"Sercan"
-  email:"sercanerhan@gmail.com"
-  twitter:
-  google:
-    ad-client: 
-    ad-slot: 
-  bio: 
-  avatar: bio-photo.jpg # 160x160 px image for author byline
-disqus-shortname:
->>>>>>> origin/master
-
-
